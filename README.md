@@ -1,1 +1,3 @@
 # python_drawing_tool
+## About this repository
+This repository is for CSC175...
